@@ -28,6 +28,11 @@
 	color: black;
 }
 
+.name:hover{
+	text-shadow: 5px 5px 10px purple;
+	filter: blur(1px);	
+}
+
 .adam {
 	color: rgb(253, 4, 4);
 }
@@ -37,7 +42,7 @@
 }
 
 .both{
-	color: greenyellow;
+	color: rgb(94, 81, 141);
 }
 
 table{
