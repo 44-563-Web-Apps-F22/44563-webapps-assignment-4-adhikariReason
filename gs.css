@@ -1,0 +1,43 @@
+
+.speech{
+	font: "Courier New";
+	font-size: 20px;
+	color: rgb(0, 0, 0);
+}
+
+.song{
+	font: Arial;
+	font-size: 20px;
+	color: black;
+}
+
+.direction {
+	font: Arial;
+	font-size: 20px;
+	color: black;
+	background-color:rgb(227, 205, 205) ;
+}
+.direction:hover{
+	color: white;
+	background-color:black ;
+}
+
+.name{
+	font: Arial;
+	font-size: 20px;
+	color: black;
+}
+
+.adam {
+	color: rgb(253, 4, 4);
+}
+
+.rob {
+	color: blueviolet;
+}
+
+.both{
+	color: greenyellow;
+}
+
+
