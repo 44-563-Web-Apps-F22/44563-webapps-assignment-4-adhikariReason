@@ -40,4 +40,15 @@
 	color: greenyellow;
 }
 
+table{
+	border: solid 4px;
+	margin: auto;
+	color: blue;
+	text-align: center;
+	border-collapse: collapse;
+}
+th, td {
+	border: dashed 2px;
+	padding: 10px;
+}
 
